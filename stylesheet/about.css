@@ -1,0 +1,84 @@
+body {
+	cursor: url('../images/cursor2.svg'), auto;
+}
+.aboutbg {
+  position: relative;
+  width: 100vw;
+  height: 71vw;
+  margin: 0 auto;
+  background-image: url('../images/aboutbg.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.close1 {
+  position: relative;
+  width: 5vw;
+  height: 8vw;
+  left: 90.9vw;
+  top: 27vw;
+  background-image: url('../images/close1.png');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.close1:hover {
+  opacity: 0;
+}
+.close2 {
+  position: relative;
+  width: 5vw;
+  height: 8vw;
+  left: 42.38vw;
+  top: 46vw;
+  background-image: url('../images/close2.png');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.close2:hover {
+  opacity: 0;
+}
+.close3 {
+  position: relative;
+  width: 5vw;
+  height: 8vw;
+  left: 94.6vw;
+  top: 47vw;
+  background-image: url('../images/close3.png');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.close3:hover {
+  opacity: 0;
+}
+.scroll-bar_1 {
+  position: relative;
+  height: 67vw;
+  width: 35vw;
+  left: 51vw;
+  top: -19.7vw;
+  overflow: auto;
+}
+.scroll_1 {
+  position: absolute;
+  height: 106.5vw;
+  width: 35vw;
+  left: 0;
+  top: 4.5vw;
+  overflow: auto;
+  background-image: url('../images/scroll.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.knopka {
+  position: absolute;
+  height: 5vw;
+  width: 17.4vw;
+  left: 7.6vw;
+  top: 53.2vw;
+  background-image: url('../images/knopka.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  opacity: 0;
+}
+.knopka:hover {
+  opacity: 1;
+}

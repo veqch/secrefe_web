@@ -1,0 +1,108 @@
+body {
+	cursor: url('../images/cursor.svg'), auto;
+}
+.newsbg {
+  position: relative;
+  width: 100vw;
+  height: 144vw;
+  margin: 0 auto;
+  background-image: url('../images/newsbg.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.imag1 {
+	position: absolute;
+	height: 51.7vw;
+  width: 30vw;
+  top: 9vw;
+  left: 7.8vw;
+	background-image: url('../images/imag1.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+.imag6 {
+	position: absolute;
+	height: 51.7vw;
+  width: 30vw;
+  top: 9vw;
+  left: 7.8vw;
+	background-image: url('../images/imag6.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	opacity: 0;
+}
+.imag6:hover{
+	opacity: 1;
+}
+.imag2 {
+	position: absolute;
+	height: 51.7vw;
+	width: 30vw;
+  top: 18.1vw;
+  left: 61vw;
+	background-image: url('../images/imag2.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+.imag7 {
+	position: absolute;
+	height: 51.7vw;
+	width: 30vw;
+  top: 18.1vw;
+  left: 61vw;
+	background-image: url('../images/imag7.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	opacity: 0;
+}
+.imag7:hover{
+	opacity: 1;
+}
+.imag3 {
+	position: absolute;
+	height: 51.7vw;
+	width: 30vw;
+	top: 72.5vw;
+  left: 16.7vw;
+	background-image: url('../images/imag3.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+.imag8 {
+	position: absolute;
+	height: 51.7vw;
+	width: 30vw;
+	top: 72.5vw;
+	left: 16.7vw;
+	background-image: url('../images/imag8.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	opacity: 0;
+}
+.imag8:hover {
+	opacity:1;
+}
+.imag4 {
+	position: absolute;
+	height: 51.7vw;
+	width: 30vw;
+	top: 90.9vw;
+  left: 61vw;
+	background-image: url('../images/imag4.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+.imag9 {
+	position: absolute;
+	height: 51.7vw;
+	width: 30vw;
+	top: 90.9vw;
+	left: 61vw;
+	background-image: url('../images/imag9.svg');
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	opacity: 0;
+}
+.imag9:hover {
+	opacity: 1;
+}

@@ -1,0 +1,18 @@
+@import "reset.css";
+@import "content.css";
+@import "shop.css";
+@import "tour.css";
+@import "menu.css";
+@import "about.css";
+@import "events.css";
+@import "magazin.css";
+@import "test.css";
+@import "out.css";
+@import "wait.css";
+@import "news.css";
+@import "404.css";
+@import "responsive.css";
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(HelveticaNeueCyr-Medium.otf);
+}

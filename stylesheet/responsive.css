@@ -1,0 +1,169 @@
+@media only screen and (max-width: 1440px) {
+    .logo {
+      opacity:0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+  /* shop */
+  .shopbg {
+    width: 175vw;
+    height: 198vw;
+    left: -73vw;
+  }
+  .rectangle {
+    width: 30.2vw;
+    height: 16vw;
+    left: 59vw;
+    top: 152.1vw;
+  }
+  .img1 {
+    width: 30.7vw;
+    height: 30.7vw;
+    top: 14.9vw;
+    left: 29.5vw;
+  }
+  .img2 {
+    width: 29.8vw;
+    height: 30.6vw;
+    top: 30.28vw;
+    left: 59.2vw;
+  }
+  .sh1 {
+    width: 29.4vw;
+    height: 30.7vw;
+    top: 90.8vw;
+    left: 0;
+  }
+  .sh2 {
+    width: 29.4vw;
+    height: 30.7vw;
+    top: 60.1vw;
+    left: 0;
+  }
+  .sh3 {
+    width: 29.4vw;
+    height: 30.7vw;
+    top: 29.4vw;
+    left: 0;
+  }
+  .book1 {
+    width: 29.4vw;
+    height: 30.7vw;
+    top: -62.1vw;
+    left: 0;
+  }
+  .book2 {
+    width: 29.4vw;
+    height: 30.7vw;
+    top: -93vw;
+    left: 0;
+  }
+  .book3 {
+    width: 29.4vw;
+    height: 30.7vw;
+    top: -123.5vw;
+    left: 0;
+  }
+  .symbol1 {
+    width: 8vw;
+    height: 13vw;
+    top: -230.5vw;
+    left: 21.5vw;
+  }
+  .symbol2 {
+    width: 12vw;
+    height: 8vw;
+    top: -146vw;
+    left: 54.3vw;
+  }
+  .symbol3 {
+    width: 9vw;
+    height: 9vw;
+    top: -179vw;
+    left: 25vw;
+  }
+  .cl1 {
+    width: 7vw;
+    height: 12vw;
+    top: -229vw;
+    left: 89.2vw;
+  }
+  .cl2 {
+    width: 7vw;
+    height: 9vw;
+    top: -176vw;
+    left: 59.6vw;
+  }
+  .cl3 {
+    top: -107vw;
+  }
+  .container {
+    width: 29vw;
+    height: 15vw;
+    left: 59.9vw;
+    top: 154.4vw;
+  }
+  .link {
+    width: 5vw;
+    height: 1.8vw;
+    top: 22.5vw;
+    left: 77.3vw;
+  }
+  .arrow {
+    display: none;
+  }
+/* news */
+  .newsbg {
+    width: 100vw;
+    height: 279vw;
+  }
+  .imag1 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 17.5vw;
+    left: 15.1vw;
+  }
+  .imag6 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 17.5vw;
+    left: 15.1vw;
+  }
+  .imag2 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 87.8vw;
+    left: 49.5vw;
+  }
+  .imag7 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 87.8vw;
+    left: 49.5vw;
+  }
+  .imag3 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 156.2vw;
+    left: 15.1vw;
+  }
+  .imag8 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 156.2vw;
+    left: 15.1vw;
+  }
+  .imag4 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 211.3vw;
+    left: 66.6vw;
+  }
+  .imag9 {
+    height: 66.7vw;
+    width: 36vw;
+    top: 211.3vw;
+    left: 66.6vw;
+  }
+}

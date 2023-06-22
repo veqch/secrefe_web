@@ -1,0 +1,39 @@
+body {
+	cursor: url('../images/cursor.svg'), auto;
+}
+.bg404 {
+  position: relative;
+  width: 100vw;
+  height: 76vw;
+  margin: 0 auto;
+  background-image: url('../images/404.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.back {
+  position: relative;
+  position: relative;
+  width: 40vw;
+  height: 4.7vw;
+  left: -21.9vw;
+  top: 19vw;
+  background-image: url('../images/back.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.words404 {
+  position: relative;
+  width: 46vw;
+  height: 17vw;
+  left: 54.7vw;
+  top: 49vw;
+  background-image: url('../images/words404.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  animation: words404 2s infinite;
+}
+@keyframes words404 {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-30px); }
+  100% { transform: translateY(0); }
+}
